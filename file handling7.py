@@ -1,0 +1,6 @@
+file = open("file2.txt","a")
+file.write("hello\n")
+# file.write(("word\n"))
+# file.write(("word\n"))
+# file.write(("word\n"))
+# file.close()
